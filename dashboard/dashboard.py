@@ -10,7 +10,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Databases
 datetime_cols = ["order_approved_at", "order_delivered_carrier_date", "order_delivered_customer_date", "order_estimated_delivery_date", "order_purchase_timestamp", "shipping_limit_date"]
-df_combine = pd.read_csv("combine_data.csv")
+df_combine = pd.read_csv("dashboard/combine_data.csv")
 df_combine.sort_values(by="order_approved_at", inplace=True)
 df_combine.reset_index(inplace=True)
 
