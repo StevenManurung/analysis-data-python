@@ -15,7 +15,7 @@ pip install streamlit
 ```
 C:\Users\user\analysis-data-python
 pip install -r requirements.txt
-masuk ke direktori C:\Users\user\analysis-data-python\dashboard
+C:\Users\user\analysis-data-python\dashboard
 ```
 
 ## Run steamlit app
