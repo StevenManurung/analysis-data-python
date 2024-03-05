@@ -4,9 +4,8 @@
 ```
 git clone https://github.com/StevenManurung/analysis-data-python.git
 ```
-## Setup environment
+## Aktifkan virtual environtment : (Pada project ini menggunakan Anaconda)
 ```
-Aktifkan virtual environtment : (Pada project ini menggunakan Anaconda)
 conda create -n streamlit python=3.11
 conda activate streamlit
 pip install streamlit
