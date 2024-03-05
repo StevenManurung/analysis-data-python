@@ -14,7 +14,7 @@ df_combine = pd.read_csv("dashboard/combine_data.csv")
 df_combine.sort_values(by="order_approved_at", inplace=True)
 df_combine.reset_index(inplace=True)
 
-geolocation = pd.read_csv('databases/geolocation_dataset.csv')
+geolocation = pd.read_csv('dashboard/geolocation_dataset.csv')
 
 for col in datetime_cols:
     df_combine[col] = pd.to_datetime(df_combine[col])
