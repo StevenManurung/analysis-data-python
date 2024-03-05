@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://analysis-data-python-a3n9z7d2sbrvdodexwzycj.streamlit.app/
+=======
+https://analysis-data-python-a3n9z7d2sbrvdodexwzycj.streamlit.app/
+>>>>>>> fdb42a776ed79df642ef677bf99bd0f318fd4904
