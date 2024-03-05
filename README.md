@@ -13,7 +13,7 @@ pip install streamlit
 ```
 ## Enter path
 ```
-masuk ke direktori C:\Users\user\analysis-data-python
+C:\Users\user\analysis-data-python
 pip install -r requirements.txt
 masuk ke direktori C:\Users\user\analysis-data-python\dashboard
 ```
