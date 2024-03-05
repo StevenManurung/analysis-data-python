@@ -2,9 +2,15 @@
 
 ## Setup environment
 ```
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+conda create -n streamlit python=3.11
+conda activate streamlit
+pip install streamlit
+```
+## Enter path
+```
+masuk ke direktori C:\Users\user\analysis-data-python
+pip install -r requirements.txt
+masuk ke direktori C:\Users\user\analysis-data-python\dashboard
 ```
 
 ## Run steamlit app
