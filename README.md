@@ -1,4 +1,9 @@
 # E-Commerce Dashboard ✨
+## Run streamlit in local
+## Setup environment
+```
+git clone https://github.com/StevenManurung/analysis-data-python.git
+```
 
 ## Setup environment
 ```
