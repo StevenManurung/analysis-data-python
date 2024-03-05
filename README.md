@@ -3,10 +3,7 @@
 ## Setup environment
 ```
 git clone https://github.com/StevenManurung/analysis-data-python.git
-```
 
-## Setup environment
-```
 conda create -n streamlit python=3.11
 conda activate streamlit
 pip install streamlit
